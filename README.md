@@ -56,7 +56,7 @@ To install and run this project, follow the steps below:
 
 ## Usage
 
-To use the [Project Name], follow the steps below:
+To use the [FATWA-CHATBOT], follow the steps below:
 
 1. Open a web browser and navigate to `http://localhost:5173`.
 2. Enter your query in the search bar and press Enter.
