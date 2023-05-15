@@ -15,6 +15,7 @@ This project is called [FATWA-CHATBOT], and it is a [graduation project designed
 
 - prof. Mohammed abd el-Azize abd el-Razik 
 
+## Introduction
 The chatbot is an innovative tool that combines the power of semantic search and artificial intelligence to provide accurate and relevant answers to queries related to Islamic law and jurisprudence. This chatbot uses advanced natural language processing techniques to understand and interpret user queries and then searches through a vast dataset of internal documents to customize its model and provide the most relevant answers.
 
 ## Installation
