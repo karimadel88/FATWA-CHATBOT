@@ -1,6 +1,23 @@
+Sure, here's an example of how you could update the markdown format to add creators and supervisor sections:
+
 # FATWA-CHATBOT
 
-This project is called [FATWA-CHATBOT], and it is a [is an innovative tool that combines the power of semantic search and artificial intelligence to provide accurate and relevant answers to queries related to Islamic law, jurisprudence .This chatbot uses advanced natural language processing techniques to understand and interpret user queries and then searches through a vast datasets of internal documents to customize its model and provide the most relevant answers.].
+This project is called [FATWA-CHATBOT], and it is a [graduation project designed by Al-Azhar University students, College of Science, department of computer science. The project was supervised by prof. Mohammed abd el-Azize abd el-Razik and developed by a team of students including:
+
+## Creators
+
+- Abd El-Rahman Hassan Mohamed Habiba 
+- Ahmed Mansur Mohamed Fares
+- Basel Obaid Sedek Khames
+- Karim Adel Eid Abd-Elhalim
+- Mohamed Ashref Sayed Mohamed
+- Noor-El-din Kamel Noor-El-din Esmat
+
+## Supervisor
+
+- prof. Mohammed abd el-Azize abd el-Razik 
+
+The chatbot is an innovative tool that combines the power of semantic search and artificial intelligence to provide accurate and relevant answers to queries related to Islamic law and jurisprudence. This chatbot uses advanced natural language processing techniques to understand and interpret user queries and then searches through a vast dataset of internal documents to customize its model and provide the most relevant answers.
 
 ## Installation
 
