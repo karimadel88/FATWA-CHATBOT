@@ -1,5 +1,3 @@
-Sure, here's an example of how you could update the markdown format to add creators and supervisor sections:
-
 # FATWA-CHATBOT
 
 This project is called [FATWA-CHATBOT], and it is a [graduation project designed by Al-Azhar University students, College of Science, department of computer science. The project was supervised by prof. Mohammed abd el-Azize abd el-Razik and developed by a team of students including:
