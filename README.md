@@ -25,7 +25,7 @@ To install and run this project, follow the steps below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/[username]/[repository].git
+   git clone https://github.com/karimadel88/FATWA-CHATBOT.git
    ```
 
 2. Install the necessary dependencies for the client:
